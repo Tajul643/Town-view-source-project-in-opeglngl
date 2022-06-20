@@ -1,12 +1,8 @@
-/*  Name:Bhagyashree Aphale ,
-         Ankita Shirke
-    Roll no:322,323
-    STD:TY B.Sc(CS)
-    Sub:Computer Graphics mini project
-    Topic:Town View
-*/
-//C++ program to implement Town view which contains sun,mountains,trees,house moving bus & clouds in OpenGL.
-//To move the Bus press s key.
+/*  Name:Tajul Islam Ayon 
+   ID:191-15-2645
+   Section : PC_C
+
+ 
 #include<windows.h>
 #include <GL/glut.h>
 #include <stdlib.h>
